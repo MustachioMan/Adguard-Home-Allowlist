@@ -1,0 +1,122 @@
+# Title: Personal AdguardHome Allowlist
+# Description: Personal Adguard Home Allowlist
+
+# ADGUARD HOME
+@@||http://192.168.8.1:3000^$important
+
+# APPLE DEVICE UPDATES
+@@||xp.apple.com^$important
+
+# APPLE iMESSAGES (GIFs/SPOTLIGHT SEARCH)
+@@||smoot.apple.com^$important
+
+# APPLE STORE
+@@||amp-api-edge.apps.apple.com^$important
+@@||amp-api-search-edge.apps.apple.com^$important
+
+# BANKING
+@@|*.navyfederal.org^$important
+
+# CBS
+@@||doppler-config.cbsivideo.com^$important
+@@||production-cmp.isgprivacy.cbsi.com^$important
+@@||pubads.g.doubleclick.net^$important
+@@||tags.tiqcdn.com^$important
+
+# CRYPTO
+@@|*.minepi.com^$important
+
+# ADGUARD
+@@|*.adguard-dns.io^$important
+
+# EPIC GAMES
+@@||eulatracking-public-service-prod06.ol.epicgames.com^$important
+
+# FACEBOOK
+@@||edge-mqtt.facebook.com^$important
+@@||portal.fb.com^$important
+@@||graph.facebook.com^$important
+@@||b-graph.facebook.com^$important
+@@||connect.facebook.com^$important
+@@||connect.facebook.net^$important
+@@||graph-fallback.facebook.com^$important
+@@||z-m-graph.facebook.com^$important
+
+# FIVETHIRTYEIGHT/NATIONAL GEOGRAPHIC
+@@||dcf.espn.com^$important
+
+# GLINET ROUTER
+@@||http://192.168.8.1^$important
+
+# GOOGLE FONTS
+@@||fonts.gstatic.com^$important
+
+# GOOGLE NEST USAGE METRICS
+@@||logsink.devices.nest.com^$important
+
+# HULU
+@@||ads-fa-darwin.hulustream.com^$important
+
+# IMGUR
+@@||js.media-lab.ai^$important
+
+# INSTAGRAM
+@@||graph.instagram.com^$important
+@@||i.instagram.com^$important
+@@||graph-fallback.instagram.com^$important
+
+# IMGUR
+@@||js.media-lab.ai^$important
+
+# NEXTDNS
+@@||nextdns.io^$important
+
+# NVIDIA
+@@||gfe.nvidia.com^$important
+@@||nvgs.nvidia.cn^$important
+
+# MICROSOFT
+@@||settings-win.data.microsoft.com^$important
+
+# PARAMOUNT+
+@@||imasdk.googleapis.com^$important
+@@||pubads.g.doubleclick.net^$important
+
+# SPECTRUM
+@@||pov.spectrum.net^$important
+
+# WINDOWS
+@@||settings-win.data.microsoft.com^$important
+
+# XBOX
+@@||v10.events.data.microsoft.com^$important
+@@||v20.events.data.microsoft.com^$important
+
+# XIAOMI
+@@||update.intl.miui.com^$important
+@@||srv.sec.intl.miui.com^$important
+
+# YAHOO MAIL
+@@||consent.yahoo.com^$important
+@@||guce.oath.com^$important
+@@||pr.comet.yahoo.com^$important
+
+# YOUTUBE HISTORY
+@@||s.youtube.com^$important
+
+# ZOOM
+@@||logfiles.zoom.us^$important
+@@||us04logfiles.zoom.us^$important
+@@||us04zpns.zoom.us^$important
+
+# MISC
+@@||cbsaavideo.com^$important
+@@||cbsi.com^$important
+@@||conviva.com^$important
+@@||convivia.com^$important
+@@||demdex.net^$important
+@@||dns-clientinfo.cbsivideo.com^$important
+@@||partnerad.l.doubleclick.net^$important
+@@||saa.cbsi.com^$important
+@@||summerhamster.com^$important
+@@||udm.scorecardresearch.com^$important
