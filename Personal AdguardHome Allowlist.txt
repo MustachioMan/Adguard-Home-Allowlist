@@ -120,3 +120,4 @@
 @@||saa.cbsi.com^$important
 @@||summerhamster.com^$important
 @@||udm.scorecardresearch.com^$important
+@@||api.goodcloud.xyz^$important
